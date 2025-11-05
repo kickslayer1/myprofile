@@ -15,7 +15,7 @@ export function Hero() {
   if (!mounted) return null
 
   return (
-    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
+    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden pt-24 md:pt-32">
       {/* Animated Background Elements */}
       <div className="absolute inset-0 -z-10">
         <div className="absolute top-20 left-10 w-72 h-72 bg-primary-500/10 rounded-full mix-blend-multiply filter blur-xl animate-blob"></div>
@@ -73,7 +73,7 @@ export function Hero() {
                   2000,
                   'Network Administrator',
                   2000,
-                  'Carnegie Mellon Student',
+                  'Carnegie Mellon Graduate',
                   2000,
                   'Data Science Enthusiast',
                   2000,
@@ -92,7 +92,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.8 }}
             className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto leading-relaxed"
           >
-            I'm a passionate Business IT graduate from Rwanda, currently pursuing a graduate bridge program at Carnegie Mellon University. 
+            I'm a passionate Business IT graduate from Rwanda who completed the prestigious Graduate Bridge Program at Carnegie Mellon University. 
             I specialize in data analysis, network administration, and turning business data into actionable insights.
           </motion.p>
 

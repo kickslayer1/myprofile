@@ -12,22 +12,22 @@ export function Experience() {
 
   const experiences = [
     {
-      title: 'Graduate Bridge Program Student',
+      title: 'Graduate Bridge Program Graduate',
       company: 'Carnegie Mellon University',
       location: 'Kigali, Rwanda',
-      period: 'February 2025 - April 2025',
+      period: 'February 2024 - April 2024',
       type: 'Graduate Program',
       description: [
-        'Pursuing advanced preparation for Master\'s degree in Data Science',
-        'Developing expertise in advanced analytics and machine learning',
-        'Collaborating on international projects and research initiatives',
-        'Building foundation for data-driven solutions in Africa and globally',
+        'Completed advanced preparation for Master\'s degree in Data Science',
+        'Developed expertise in advanced analytics and machine learning',
+        'Collaborated on international projects and research initiatives',
+        'Built foundation for data-driven solutions in Africa and globally',
       ],
       technologies: ['Python', 'R', 'Machine Learning', 'Statistics', 'Data Analysis'],
       achievements: [
-        'Selected for prestigious Carnegie Mellon program',
-        'Focus on African data science applications',
-        'Preparing for advanced graduate studies',
+        'Successfully completed prestigious Carnegie Mellon program',
+        'Specialized in African data science applications',
+        'Prepared for advanced graduate studies and career advancement',
       ],
     },
     {
@@ -94,12 +94,12 @@ export function Experience() {
       degree: 'Graduate Bridge Program',
       school: 'Carnegie Mellon University',
       location: 'Kigali, Rwanda',
-      period: 'February 2025 - April 2025',
-      description: 'Advanced preparation program for Master\'s degree in Data Science, focusing on data-driven solutions for Africa and global applications.',
+      period: 'February 2024 - April 2024',
+      description: 'Successfully completed advanced preparation program for Master\'s degree in Data Science, focusing on data-driven solutions for Africa and global applications.',
       achievements: [
-        'Selected for prestigious international program',
-        'Focus on African data science applications',
-        'Preparation for advanced graduate studies',
+        'Successfully completed prestigious international program',
+        'Specialized in African data science applications',
+        'Advanced preparation for graduate studies completed',
       ],
     },
     {

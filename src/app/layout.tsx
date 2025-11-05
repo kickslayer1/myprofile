@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Olivier HABIMANA - Business IT & Data Science',
-  description: 'Business Information Technology graduate from Rwanda, specializing in data analysis and network administration. Currently pursuing Data Science at Carnegie Mellon University.',
+  description: 'Business Information Technology graduate from Rwanda, specializing in data analysis and network administration. Carnegie Mellon Graduate Bridge Program graduate with expertise in Data Science.',
   keywords: ['data science', 'business IT', 'data analysis', 'rwanda', 'carnegie mellon', 'power bi', 'python'],
   authors: [{ name: 'Olivier HABIMANA' }],
   creator: 'Olivier HABIMANA',

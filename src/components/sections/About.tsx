@@ -20,8 +20,8 @@ export function About() {
   const highlights = [
     {
       icon: <GraduationCap className="w-6 h-6 text-blue-500" />,
-      title: 'Carnegie Mellon',
-      description: 'Selected for prestigious Graduate Bridge Program in Data Science',
+      title: 'Carnegie Mellon Graduate',
+      description: 'Completed the prestigious Graduate Bridge Program in Data Science',
     },
     {
       icon: <Target className="w-6 h-6 text-green-500" />,
@@ -83,7 +83,7 @@ export function About() {
               </div>
               <div className="flex items-center space-x-3 text-gray-600 dark:text-gray-400">
                 <Calendar className="w-5 h-5 text-primary-500" />
-                <span>Currently at Carnegie Mellon University</span>
+                <span>Carnegie Mellon Graduate Bridge Program Graduate</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-600 dark:text-gray-400">
                 <Globe className="w-5 h-5 text-primary-500" />
@@ -102,8 +102,8 @@ export function About() {
             <div className="prose prose-lg dark:prose-invert max-w-none">
               <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
                 Hello! I'm Olivier HABIMANA, a motivated Business Information Technology graduate from 
-                the University of Rwanda. Currently, I'm pursuing a Graduate Bridge Program at Carnegie 
-                Mellon University to advance my expertise in data science and analytics.
+                the University of Rwanda. I successfully completed the Graduate Bridge Program at Carnegie 
+                Mellon University, advancing my expertise in data science and analytics.
               </p>
               <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
                 My journey spans from building inventory control systems at Duhozanye LTD to mastering 
@@ -171,8 +171,8 @@ export function About() {
               <div className="space-y-3">
                 <div>
                   <p className="font-semibold text-gray-900 dark:text-white">Carnegie Mellon University</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">Graduate Bridge Program - Data Science</p>
-                  <p className="text-xs text-gray-500 dark:text-gray-500">2024 - Present</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">Graduate Bridge Program - Data Science (Completed)</p>
+                  <p className="text-xs text-gray-500 dark:text-gray-500">2024</p>
                 </div>
                 <div>
                   <p className="font-semibold text-gray-900 dark:text-white">University of Rwanda</p>
