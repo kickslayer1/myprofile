@@ -92,8 +92,8 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.8 }}
             className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto leading-relaxed"
           >
-            I'm a passionate Business IT graduate from Rwanda who completed the prestigious Graduate Bridge Program at Carnegie Mellon University. 
-            I specialize in data analysis, network administration, and turning business data into actionable insights.
+            I'm a detail-oriented and motivated Business Information Technology graduate with a robust foundation in data analysis and information systems. 
+            I thrive on transforming complex datasets into clear, strategic narratives that inform better business decisions. Currently growing my skills from an analyst role into a data science capacity.
           </motion.p>
 
           {/* Tech Stack Icons */}
@@ -157,7 +157,7 @@ export function Hero() {
               <Github className="w-6 h-6 text-gray-700 dark:text-gray-300 group-hover:text-primary-500" />
             </a>
             <a
-              href="https://linkedin.com/in/olivier-habimana"
+              href="https://www.linkedin.com/in/habimana-olivier-40b6521a8/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-all duration-300 hover:scale-110 group"

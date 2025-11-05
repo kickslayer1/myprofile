@@ -15,7 +15,7 @@ export function Experience() {
       title: 'Graduate Bridge Program Graduate',
       company: 'Carnegie Mellon University',
       location: 'Kigali, Rwanda',
-      period: 'February 2024 - April 2024',
+      period: 'February 2025 - April 2025',
       type: 'Graduate Program',
       description: [
         'Completed advanced preparation for Master\'s degree in Data Science',
@@ -94,7 +94,7 @@ export function Experience() {
       degree: 'Graduate Bridge Program',
       school: 'Carnegie Mellon University',
       location: 'Kigali, Rwanda',
-      period: 'February 2024 - April 2024',
+      period: 'February 2025 - April 2025',
       description: 'Successfully completed advanced preparation program for Master\'s degree in Data Science, focusing on data-driven solutions for Africa and global applications.',
       achievements: [
         'Successfully completed prestigious international program',

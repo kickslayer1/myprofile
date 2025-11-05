@@ -101,19 +101,19 @@ export function About() {
           >
             <div className="prose prose-lg dark:prose-invert max-w-none">
               <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                Hello! I'm Olivier HABIMANA, a motivated Business Information Technology graduate from 
-                the University of Rwanda. I successfully completed the Graduate Bridge Program at Carnegie 
+                Hello! I'm Olivier HABIMANA, a detail-oriented and motivated Business Information Technology graduate 
+                from the University of Rwanda. I successfully completed the Graduate Bridge Program at Carnegie 
                 Mellon University, advancing my expertise in data science and analytics.
               </p>
               <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                My journey spans from building inventory control systems at Duhozanye LTD to mastering 
-                network administration at Saltel Training Center. I'm passionate about turning complex 
-                business data into actionable insights that drive decision-making.
+                I thrive on the challenge of transforming complex datasets into clear, strategic narratives. 
+                My expertise lies in applying a solid foundation in data analysis and information systems to 
+                uncover crucial patterns and trajectories that inform better business decisions.
               </p>
               <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                With experience in Python, R, Power BI, Tableau, and network technologies, I aim to be 
-                at the forefront of providing data-driven solutions in Africa and across the globe. 
-                I believe in using technology to solve real-world business challenges.
+                Currently growing my skills from an analyst role into a data science capacity, I am actively 
+                seeking my next opportunity to apply my skills and make a meaningful contribution to the African 
+                community through the power of data.
               </p>
             </div>
 
@@ -172,7 +172,7 @@ export function About() {
                 <div>
                   <p className="font-semibold text-gray-900 dark:text-white">Carnegie Mellon University</p>
                   <p className="text-sm text-gray-600 dark:text-gray-400">Graduate Bridge Program - Data Science (Completed)</p>
-                  <p className="text-xs text-gray-500 dark:text-gray-500">2024</p>
+                  <p className="text-xs text-gray-500 dark:text-gray-500">2025</p>
                 </div>
                 <div>
                   <p className="font-semibold text-gray-900 dark:text-white">University of Rwanda</p>

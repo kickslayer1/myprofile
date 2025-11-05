@@ -75,7 +75,7 @@ export function Navbar() {
               <Github size={20} />
             </Link>
             <Link
-              href="https://linkedin.com/in/olivier-habimana"
+              href="https://www.linkedin.com/in/habimana-olivier-40b6521a8/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-400 transition-colors duration-200"
@@ -138,7 +138,7 @@ export function Navbar() {
                 <Github size={20} />
               </Link>
               <Link
-                href="https://linkedin.com/in/olivier-habimana"
+                href="https://www.linkedin.com/in/habimana-olivier-40b6521a8/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-700 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-400 transition-colors duration-200"

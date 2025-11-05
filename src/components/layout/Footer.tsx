@@ -26,7 +26,7 @@ export function Footer() {
                 <Github size={20} />
               </Link>
               <Link
-                href="https://linkedin.com/in/olivier-habimana"
+                href="https://www.linkedin.com/in/habimana-olivier-40b6521a8/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 dark:text-gray-400 hover:text-primary-500 transition-colors duration-200"

@@ -82,7 +82,7 @@ export function Contact() {
     {
       icon: <Linkedin className="w-6 h-6" />,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/olivier-habimana',
+      href: 'https://www.linkedin.com/in/habimana-olivier-40b6521a8/',
       color: 'hover:text-blue-600',
     },
     {
