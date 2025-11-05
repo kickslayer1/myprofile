@@ -65,7 +65,7 @@ export function About() {
               <div className="w-full max-w-md mx-auto relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-2xl blur-xl opacity-20"></div>
                 <img
-                  src="/placeholder-about.jpg"
+                  src="/profile.jpg"
                   alt="Olivier HABIMANA"
                   className="relative w-full rounded-2xl shadow-2xl"
                 />

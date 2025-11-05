@@ -39,7 +39,7 @@ export function Hero() {
           >
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-primary-500 to-secondary-500 animate-spin-slow"></div>
             <img
-              src="/placeholder-avatar.jpg"
+              src="/profile.jpg"
               alt="Olivier HABIMANA"
               className="relative w-full h-full rounded-full object-cover border-4 border-white dark:border-gray-800 shadow-xl"
             />
